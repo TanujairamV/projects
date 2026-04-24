@@ -389,7 +389,7 @@
             }
         }
 
-        // Initialize calculator when page loads
+        // Initialize calculator when page
         const calculator = new Calculator();
     </script>
 </body>
